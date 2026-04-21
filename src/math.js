@@ -1,4 +1,5 @@
 // src/math.js
+var test = "erreur volontaire";
 function add(a, b) {
   return a + b;
 }
